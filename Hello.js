@@ -1,1 +1,1 @@
-let a = "Hello";
+console.log('Hello');
